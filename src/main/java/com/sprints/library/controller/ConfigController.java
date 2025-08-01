@@ -1,8 +1,6 @@
-package com.sprints.library.Controllers;
+package com.sprints.library.controller;
 
-
-import com.sprints.library.Config.LibraryConfig;
-import org.apache.tomcat.jni.Library;
+import com.sprints.library.config.LibraryConfig;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

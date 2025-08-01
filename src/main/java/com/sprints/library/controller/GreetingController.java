@@ -1,4 +1,4 @@
-package com.sprints.library.Controllers;
+package com.sprints.library.controller;
 
 import com.sprints.library.service.GreetingService;
 import org.springframework.beans.factory.annotation.Autowired;
