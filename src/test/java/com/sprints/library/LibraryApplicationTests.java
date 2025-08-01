@@ -27,8 +27,8 @@ class LibraryApplicationTests {
 	@Test
 	void includedBeansAreLoaded() {
 		// Verify included beans are loaded
-		assertTrue(applicationContext.containsBean("morningService"));
-		assertTrue(applicationContext.containsBean("eveningService"));
+		assertTrue(applicationContext.containsBean("morning"));
+		assertTrue(applicationContext.containsBean("evening"));
 		assertTrue(applicationContext.containsBean("libraryConfig"));
 		assertTrue(applicationContext.containsBean("bookRepository"));
 	}
