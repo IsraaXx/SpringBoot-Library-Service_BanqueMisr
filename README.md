@@ -3,7 +3,7 @@
 ### Library Management (Dependency Injection + Profiles + CRUD)
 
 ## 👥 This project was developed exclusively by the following three contributors :
--  1: Ziad Sheref (Team Leader)
+-  1: Ziyad Sherif (Team Leader)
 -  2: إسراء محمد السيد محمد
 -  3:ندى محيى الدين حافظ عبدالعال
 
