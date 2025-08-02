@@ -18,13 +18,13 @@ This Spring Boot project demonstrates core concepts of Spring such as Dependency
 
 ### ✅ Core Setup & Anatomy
 - Initialized a Spring Boot project using [Spring Initializr](https://start.spring.io/) with **Web** and **Spring Data JPA** dependencies.
-- Created the `@SpringBootApplication` main class inside a base package: `com.yourorg.library`.
+- Created the `@SpringBootApplication` main class inside a base package: `com.sprints.library`.
 - Exposed a `/health` endpoint that returns `"OK"` to confirm service is up.
 
 ### ✅ Dependency Injection Basics
 - Created a `GreetingService` interface with two implementations:
-  - `MorningGreetingService`
-  - `EveningGreetingService`
+  - `MorningService`
+  - `EveningService`
 - Injected the service into a controller in **three ways**:
   - Constructor Injection
   - Setter Injection
