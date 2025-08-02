@@ -1,15 +1,15 @@
-# SpringBoot-Library-Service_BanqueMisr
+# SpringBoot-Library-Service_BanqueMisr 📚
 
 ### Library Management (Dependency Injection + Profiles + CRUD)
 
-## This project was developed exclusively by the following three contributors :
+## 👥 This project was developed exclusively by the following three contributors :
 -  1: Ziad Sheref (Team Leader)
 -  2: إسراء محمد السيد محمد
 -  3:ندى محيى الدين حافظ عبدالعال
 
 ---
 
-## Project Overview
+## 📌 Project Overview
 This Spring Boot project demonstrates core concepts of Spring such as Dependency Injection, Profiles, Configuration Properties, Component Scanning, and full CRUD operations. The application simulates a simple library system.
 
 ---
@@ -99,7 +99,7 @@ com.sprints.library
 
 ---
 
-## Notes
+## 📝 Notes
 - Make sure your profile-specific YAML files are properly indented.
 - Ensure dependencies are up to date in your `pom.xml`
 - Customize `library.name` and `library.mode` per environment
